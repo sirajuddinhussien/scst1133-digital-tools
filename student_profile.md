@@ -8,5 +8,5 @@
 * Institution: Universiti Teknologi Malaysia (UTM)
 
 # About Me
-Passionate in learning computer science especially in data engineering, data management, cloud computing and machine learning
+Passionate in learning computer science especially in data engineering and management, cloud computing, machine learning and AI development.
 
