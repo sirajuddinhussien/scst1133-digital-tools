@@ -1,10 +1,31 @@
-# scst1133-digital-tools
-## Digital tools activities for SCST1133 Data Engineering Ecosystem
+# SCST1133 Digital Tools
 
-### Course Information
-* Course Code: SCST1133
-* Section: Section 03
+## Student Information
+- Name: MOHAMAD SIRAJUDDIN HUSSIEN BIN ALMINRAZ
+- Matric Number: A26CS0447
+- Section: Section 02
 
-### Repository Content
-* README.md : Course repository overview
-* student_profile.md : Student details
+## Course Information
+- Course: SCST1133 Data Engineering Ecosystem
+- Lecturer: Dr. Aryati
+
+## Digital Tools
+### GitHub
+Today, I learned to add a repository and also edit a README.md file.
+This is my github url: https://github.com/sirajuddinhussien
+
+### Figma
+My figma profile: @sirajuddinhussien
+
+### Google Stitch
+Add your prompt and screenshot.
+
+### Google Vids
+[Watch my presentation](PASTE-URL-HERE)
+
+## Reflection
+As of today, I learned few distinctive tools for my data engineering class.
+* Creating Github account
+* Creating repositories
+* Creating Figma account
+* Apply and obtain student account benefits for both Github and Figma
