@@ -1,31 +1,39 @@
-# SCST1133 Digital Tools
+<div align="center">
 
-## Student Information
-- Name: MOHAMAD SIRAJUDDIN HUSSIEN BIN ALMINRAZ
-- Matric Number: A26CS0447
-- Section: Section 02
+# Hey, Mohamad Sirajuddin Hussien Bin Alminraz 👋
 
-## Course Information
-- Course: SCST1133 Data Engineering Ecosystem
-- Lecturer: Dr. Aryati
+### Year 1 · Bachelor in Computer Science (Data Engineering)
+**Universiti Teknologi Malaysia (UTM)** 🇲🇾
 
-## Digital Tools
-### GitHub
-Today, I learned to add a repository and also edit a README.md file.
-This is my github url: https://github.com/sirajuddinhussien
+*Exploring how software, data, and technology can solve real-world problems.*
 
-### Figma
-My figma profile: @sirajuddinhussien
+[![LinkedIn](link)
+[![Email](link)
 
-### Google Stitch
-Add your prompt and screenshot.
+</div>
 
-### Google Vids
-[Watch my presentation](PASTE-URL-HERE)
+---
 
-## Reflection
-As of today, I learned few distinctive tools for my data engineering class.
-* Creating Github account
-* Creating repositories
-* Creating Figma account
-* Apply and obtain student account benefits for both Github and Figma
+### 👨‍💻 About me
+
+I'm a **first-year Data Engineering student** at **UTM**, building my foundation in programming and exploring the technologies that power modern data systems.
+
+### 🛠️ Languages I use
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### 🌱 Currently learning
+
+- ☁️ **Cloud Computing** — understanding cloud services and infrastructure
+- 🗄️ **Databases** — learning how data is stored, organized, and managed
+
+### 📫 Let's connect
+
+- **LinkedIn:** [Sirajuddin Hussien](www.linkedin.com/in/mohamad-sirajuddin-hussien-bin-alminraz-914a25351)
+- **Email:** [sirajuddinhussien@gmail.com](mailto:sirajuddinhussien@gmail.com)
+
+---
+
+<div align="center"><sub>Learning, building, and improving — one step at a time.</sub></div>
