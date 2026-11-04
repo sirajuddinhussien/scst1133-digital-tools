@@ -7,7 +7,7 @@
 
 *Exploring how software, data, and technology can solve real-world problems.*
 
-[![LinkedIn](https://www.linkedin.com/in/sirajuddin-hussien-914a25351)
+[LinkedIn](https://www.linkedin.com/in/sirajuddin-hussien-914a25351)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sirajuddin07@graduate.utm.my)
 
 </div>
